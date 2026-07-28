@@ -79,7 +79,7 @@ Estudante de **Ciência da Computação**, focado em desenvolvimento **back-end*
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luuuiis)
 
 <p align="center">
-  <a href="www.linkedin.com/in/luís-fillipe-lourenço">
+  <a href="[www.linkedin.com/in/luís-fillipe-lourenço](https://www.linkedin.com/in/lu%C3%ADs-fillipe-louren%C3%A7o/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
