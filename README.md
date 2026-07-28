@@ -3,9 +3,6 @@
 # Olá, eu sou o Luís Fillipe 👋
 
 
-[![GitHub followers](https://img.shields.io/github/followers/luuuiis?style=for-the-badge&logo=github&color=181717)](https://github.com/luuuiis)
-![Location](https://img.shields.io/badge/Limeira,_SP_-_Brasil-🇧🇷-blue?style=for-the-badge)
-
 </div>
 
 ---
@@ -80,6 +77,12 @@ Estudante de **Ciência da Computação**, focado em desenvolvimento **back-end*
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luuuiis)
+
+<p align="center">
+  <a href="www.linkedin.com/in/luís-fillipe-lourenço">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
 
