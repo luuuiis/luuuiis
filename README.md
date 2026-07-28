@@ -2,7 +2,6 @@
 
 # Olá, eu sou o Luís Fillipe 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Back-end;Apaixonado+por+tecnologia" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/luuuiis?style=for-the-badge&logo=github&color=181717)](https://github.com/luuuiis)
 ![Location](https://img.shields.io/badge/Limeira,_SP_-_Brasil-🇧🇷-blue?style=for-the-badge)
@@ -86,10 +85,4 @@ Estudante de **Ciência da Computação**, focado em desenvolvimento **back-end*
 
 ---
 
-<div align="center">
 
-*"O código é poesia escrita em lógica."* ✨
-
-<img src="https://komarev.com/ghpvc/?username=luuuiis&color=6366F1&style=for-the-badge&label=Visitantes" alt="Profile views"/>
-
-</div>
